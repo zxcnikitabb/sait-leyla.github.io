@@ -1,4 +1,4 @@
-// ===== Падающие сердечки на фоне =====
+6// ===== Падающие сердечки на фоне =====
 const heartsBg = document.getElementById('heartsBg');
 const emojis = ['💜', '💖', '💗', '🌸', '✨', '💫', '🦋'];
 
